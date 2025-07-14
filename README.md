@@ -1,8 +1,3 @@
-Absolutely! Below is the **complete `README.md` content** including everything: project description, features, project structure, how to clone, run with Docker, and how to use the API — all written in correct Markdown syntax.
-
----
-
-```markdown
 # 📝 To-Do List API (FastAPI + PostgreSQL + Docker)
 
 This is a backend REST API built with **FastAPI**, connected to a **PostgreSQL** database, and containerized using **Docker**. The API supports user authentication and task management features including creation, update, filtering, sorting, and statistics.
@@ -35,9 +30,6 @@ This is a backend REST API built with **FastAPI**, connected to a **PostgreSQL**
 
 ## 📁 Project Structure
 
-```
-
-.
 ├── backend/
 │   ├── app/
 │   │   ├── main.py
@@ -49,9 +41,6 @@ This is a backend REST API built with **FastAPI**, connected to a **PostgreSQL**
 │   └── Dockerfile
 ├── docker-compose.yml
 
-````
-
----
 
 ## 🐳 Getting Started with Docker
 
@@ -142,19 +131,4 @@ docker-compose up --build
 
 # Step 3: Open your browser
 http://localhost:8000/docs
-```
-
----
-
-## 📦 License
-
-This project is open source and free to use under the [MIT License](LICENSE).
-
-```
-
----
-
-You can copy and paste this entire block into your `README.md` file.
-
-Let me know if you'd like a version that includes the frontend too (when you're ready), or if you'd like me to generate the actual file for you.
 ```
