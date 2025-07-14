@@ -29,7 +29,7 @@ This is a backend REST API built with **FastAPI**, connected to a **PostgreSQL**
 ---
 
 ## 📁 Project Structure
-
+```bash
 ├── backend/
 │   ├── app/
 │   │   ├── main.py
@@ -41,7 +41,7 @@ This is a backend REST API built with **FastAPI**, connected to a **PostgreSQL**
 │   └── Dockerfile
 ├── docker-compose.yml
 
-
+```
 ## 🐳 Getting Started with Docker
 
 ### 1. Clone the repo
